@@ -1,4 +1,6 @@
 ### Hi there 👋
+let now = new Date();
+alert( now ); // shows current date/time
 
 <!--
 **Scott-Wilder/scott-wilder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
